@@ -8,3 +8,12 @@ Firstly I learned how to collect data and label it using labelImg. Then using gl
 
 ## ERRORS:
 df[cols] = df[cols].astype(int) was noot working and i had to instead use df[cols] = df[cols].astype(int)
+
+## Splitting the data
+
+## label encoding
+convert obj names into specific ids
+
+## Creating a Folder structure
+train and test folder. save the training images andrespective label information in .txt
+in .txt file we have to save without commas
